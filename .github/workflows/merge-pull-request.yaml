@@ -18,3 +18,4 @@ jobs:
     steps:
     - run: |
         echo Merge completed
+        echo Merge completed
